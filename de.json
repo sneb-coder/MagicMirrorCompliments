@@ -4,8 +4,8 @@
                 "Heute ist ein großartiger Tag!",
                 "Du machst den Unterschied!",
                 "Ein wunderschönes Lächeln, für einen wunderschönen Tag",
-                "Schaust du noch immer in den Spiegel?",
-                "Der Spiegel sagt: 'Hallo!'"
+                "Hab einen tollen Tag!",
+                "Heute wird dei Tag"
         ],
         "morning" : [
                 "Dein Haar ist mega heute!",
@@ -22,9 +22,9 @@
         ],
         "evening" : [
                 "Nur ein paar Anrufe zu erledigen ...",
-                "Guten Apetit",
+                "Du hast den Tag gerockt",
                 "Yeah, Freizeit",
                 "Du machst den Unterschied",
-                "War das Essen gut?"
+                "Was gibt es zum Abendessen?"
         ]
 }
